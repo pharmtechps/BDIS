@@ -1,0 +1,195 @@
+body
+{
+	overflow: hidden;
+}
+
+body, input, pre
+{
+	background-color: green;
+	color: #FFFFFF;
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 110%;
+}
+
+input
+{
+	border: 0px solid #222222;
+}
+
+input:focus
+{
+	outline: none;
+}
+
+div.program
+{
+	display: none;
+}
+
+span#programNotDefined
+{
+	display: none;
+}
+
+pre
+{
+	margin: 0px;
+}
+
+input#bdis_opt1_dispensingtype
+{
+	width: 130px;
+}
+
+input#bdis_opt1_ward
+{
+	width: 66px;
+}
+
+input#bdis_opt1_patient
+{
+	width: 295px;
+}
+
+input#bdis_opt1_prescriber
+{
+	width: 54px;
+}
+
+input#bdis_opt1_drug
+{
+	width: 327px;
+}
+
+input#bdis_opt1_issue
+{
+	width: 80px;
+}
+
+input#bdis_opt1_batch
+{
+	width: 130px;
+}
+
+input#bdis_opt1_expiry
+{
+	width: 105px;
+}
+
+input#bdis_opt1_labelname
+{
+	width: 14px;
+}
+
+input#bdis_opt1_2ndname
+{
+	width: 28px;
+}
+
+input#drug_search_selection, input#ward_search_selection, input#specialty_search_selection
+{
+	width: 26px;
+}
+
+input#drugitem_search_selection, input#drug_shortcut_search_selection, input#prescriber_search_selection
+{
+	width: 39px;
+}
+
+input#prescriber_or_specialty
+{
+	width: 14px;
+}
+
+div.popupWindow
+{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: #000000;
+}
+
+#bdis_opt1_label_holder
+{
+	border: 1px solid #707070;
+	width: 475px;
+	padding: 8px;
+	float: left;
+}
+
+#bdis_opt1_finishlabel
+{
+	border: 1px none #707070;
+	width: 475px;
+	height: 260px;
+	padding: 8px;
+	float: left;
+	margin-top: 10px;
+}
+
+#bdis_opt1_instructions
+{
+	border: 1px none #707070;
+	width: 285px;
+	height: 530px;
+	padding: 8px;
+	float: right;
+}
+
+input.labelLine
+{
+	width: 475px;
+	border-style: none;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+input#bdis_opt1_quantity_required
+{
+	width: 28px;
+}
+
+input#bdis_opt1_print_bnf
+{
+	width: 14px;
+}
+
+
+#bdis_opt1_finishedlabelprompt
+{
+	color: #000000;
+	background-color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+input#bdis_opt1_finishedlabelinput
+{
+	width: 14px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	border: 1px none #FFFFFF;
+}
+
+#usermessage
+{
+	color: #000000;
+	background-color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+span#bdis_opt1_baseunit
+{
+	display: none;
+}
