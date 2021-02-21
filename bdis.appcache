@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# ---------- 2019-05-21 v01 --------------
+bdis.html
+css/bdis.css
+js/bdis.js
+js/jquery-2.1.4.js
+js/main.js
+js/drugsearch.js
+js/prescribersearch.js
+js/wardsearch.js
+bdis.html?upgrade=yes
+bdis-update.html
+
+NETWORK:
+*
+
+FALLBACK:
+js/database.js js/database-offline.js

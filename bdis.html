@@ -1,0 +1,350 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" manifest="bdis.appcache">
+<head>
+    <title>BDIS - 2019-05-21 v01</title>
+    <meta charset="UTF-8" />
+
+    <script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+
+    <script type="text/javascript" src="js/database.js"></script>
+    <script type="text/javascript" src="js/bdis.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/drugsearch.js"></script>
+    <script type="text/javascript" src="js/prescribersearch.js"></script>
+    <script type="text/javascript" src="js/wardsearch.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/bdis.css"></link>
+
+    <script type="text/javascript">
+
+        $(document).ready
+            (
+                function () {
+                    if (location.href.indexOf("isopen=yes") >= 0) {
+                        var d = new Date();
+                        var connectedScreen = "";
+                        connectedScreen += "     UCL HOSPITALS PHARMACY COMPUTER SYSTEM\n\n";
+                        connectedScreen += "     " + weekdays[d.getDay()].substr(0, 3).toUpperCase() + " " + day + "." + month + "." + year.substr(2, 2) + "   ";
+                        connectedScreen += d.toLocaleTimeString() + "   \n\n"
+
+                        $("div#connected pre").text(connectedScreen);
+
+                        $(document).bind("keydown", document_keydown);
+                        $("#login_password").bind("keypress", login_password_keypress);
+                        $("#login_password")[0].focus();
+                        initDatabase();
+                        //sendXmlToLabelPrinter(createPatientReceiptXML());
+                    }
+                    else {
+                        window.open("bdis.html?isopen=yes", "_blank", "height=600,width=850");
+                        window.open('', '_self', '');
+                        window.close();
+                    }
+                }
+            );
+
+        $(document).keypress
+            (
+                function (e) {
+                    $("#login_password")[0].focus();
+                    $(document).unbind("keypress");
+                }
+            );
+
+        //testing out patient receipts
+        function createPatientReceiptXML() {
+            var xmltemplate =
+                "<label type=\"template\" templatename=\"pimsoutpatientreceipt\">" +
+                "<printQuantity>1</printQuantity>" +
+                "<fields>" +
+                "</fields>" +
+                "</label>";
+
+            return xmltemplate;
+        }
+
+    </script>
+</head>
+
+	<body>
+
+
+<div id="connected">
+<pre></pre>
+</div>
+
+<div class = "img">
+  <img src = "file:///P:/users/Psphikas/IT/BDIS/BDIS%20from%20github/bdis-appcache-master/undraw_informed_decision_p2lh.svg"
+  width = "200px">
+  <h2> BDIS </H2>
+</div>
+<div>
+<h2>Back Up Lablelling System</h2>
+<h3> Hot to Use </h3>
+<li> Log on using the generic pharmacy password </li>
+<li> Type in the program name BDIS press Enter KEY</li>
+<li> Select location code number corresponding to your location press Enter KEY</li>
+<li> Select Dispensing Label then press Enter </li>
+<br>
+<br>
+
+</div>
+
+<div id="login" class = "logintext" label ="type password">
+<pre>
+LOG-ON: <input id="login_password" type="password" placeholder="PHARMGEN"/>
+</pre>
+</div>
+
+
+<div id="programList" class="program">
+<pre>AVAILABLE PROGRAM(S) ARE;</pre>
+<pre>     BDIS      BACK UP DISPENSING</pre>
+</div>
+
+
+<div id="menu" class="program">
+<pre>
+
+ENTER PROGRAM REQUIRED BDIS: <input id="menu_selection" type="text" placeholder="BDIS"/>
+<span id="programNotDefined">PROGRAM NOT DEFINED.</span>
+</pre>
+</div>
+
+
+<div id="bdis" class="program">
+
+</div>
+
+
+	</body>
+</html>
+
+<style>
+body
+{
+	overflow: hidden;
+}
+
+body, input, pre
+{
+	background-color: ;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 110%;
+}
+
+input
+{
+	border: 2px solid white;
+  margin-bottom: 5px;
+  background-color: white;
+  	color: black;
+
+
+}
+
+input:focus
+{
+	outline: none;
+}
+
+div.program
+{
+	display: none;
+}
+
+span#programNotDefined
+{
+	display: none;
+}
+
+pre
+{
+	margin: 0px;
+}
+
+input#bdis_opt1_dispensingtype
+{
+	width: 160px;
+}
+
+input#bdis_opt1_ward
+{
+	width: 66px;
+}
+
+input#bdis_opt1_patient
+{
+	width: 295px;
+}
+
+input#bdis_opt1_prescriber
+{
+	width: 54px;
+}
+
+input#bdis_opt1_drug
+{
+	width: 327px;
+}
+
+input#bdis_opt1_issue
+{
+	width: 80px;
+}
+
+input#bdis_opt1_batch
+{
+	width: 130px;
+}
+
+input#bdis_opt1_expiry
+{
+	width: 105px;
+}
+
+input#bdis_opt1_labelname
+{
+	width: 14px;
+}
+
+input#bdis_opt1_2ndname
+{
+	width: 28px;
+}
+
+input#drug_search_selection, input#ward_search_selection, input#specialty_search_selection
+{
+	width: 26px;
+}
+
+input#drugitem_search_selection, input#drug_shortcut_search_selection, input#prescriber_search_selection
+{
+	width: 39px;
+}
+
+input#prescriber_or_specialty
+{
+	width: 14px;
+}
+
+div.popupWindow
+{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: #000000;
+}
+
+#bdis_opt1_label_holder
+{
+	border: 1px solid #707070;
+	width: 475px;
+	padding: 8px;
+	float: left;
+}
+
+#bdis_opt1_finishlabel
+{
+	border: 1px none #707070;
+	width: 475px;
+	height: 260px;
+	padding: 8px;
+	float: left;
+	margin-top: 10px;
+}
+
+#bdis_opt1_instructions
+{
+	border: 1px none #707070;
+	width: 285px;
+	height: 530px;
+	padding: 8px;
+	float: right;
+}
+
+input.labelLine
+{
+	width: 475px;
+	border-style: none;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+input#bdis_opt1_quantity_required
+{
+	width: 28px;
+}
+
+input#bdis_opt1_print_bnf
+{
+	width: 14px;
+}
+
+
+#bdis_opt1_finishedlabelprompt
+{
+	color: #000000;
+	background-color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+input#bdis_opt1_finishedlabelinput
+{
+	width: 14px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	border: 1px none #FFFFFF;
+}
+
+#usermessage
+{
+	color: #000000;
+	background-color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+span#bdis_opt1_baseunit
+{
+	display: none;
+}
+
+.img{
+  float: right;
+  border:  solid
+  padding: 20px;
+}
+
+h2 {
+
+  FONT-SIZE: 40px;
+  font-family: Arial;
+	font-weight: bold;
+
+}
+
+h3 {
+
+  FONT-SIZE: 22px;
+  font-family: Arial;
+}
+
+.logintext {
+padding-left: 50px;
+font-color: white;
+}
+
+</style>

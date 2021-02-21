@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" manifest="bdis.appcache">
+	<head>
+		<title></title>
+		<meta charset="UTF-8" />
+		
+		<script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+		
+		<script type="text/javascript" src="js/database.js"></script>
+		<script type="text/javascript" src="js/bdis.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="css/bdis.css"></link>
+		
+		<script type="text/javascript">
+			
+			$(document).ready
+			(
+				function()
+				{
+					initDatabase();
+				}	
+			);
+			
+		</script>
+	</head>
+	
+	<body>
+	
+	
+<div id="connected">
+<pre></pre>
+</div>
+
+		
+<div id="login">
+<pre>
+LOG-ON: <input id="login_password" type="password"/>
+</pre>
+</div>
+		
+
+<div id="programList" class="program">
+<pre>AVAILABLE PROGRAM(S) ARE;</pre>
+<pre>     BDIS      BACK UP DISPENSING</pre>
+</div>
+
+
+<div id="menu" class="program">
+<pre>
+
+ENTER PROGRAM REQUIRED, M FOR MENU, OR END &lt;END&gt;: <input id="menu_selection" type="text" />
+<span id="programNotDefined">PROGRAM NOT DEFINED.</span>
+</pre>
+</div>
+
+
+<div id="bdis" class="program">
+
+</div>
+
+	</body>
+</html>
