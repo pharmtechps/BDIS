@@ -1,0 +1,746 @@
+[
+ {
+   "Column1": "PHENYTOIN SODIUM  250MG/5ML INJECTION, 5 mL, ampoule, PACK OF 10 {17728}"
+ },
+ {
+   "Column1": "IRON SUCROSE (VENOFER) 100MG/5ML INJECTION, 5 mL, vial, PACK OF 5 {84972}"
+ },
+ {
+   "Column1": "LEVOMEPROMAZINE  25MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {54003}"
+ },
+ {
+   "Column1": "FLECAINIDE  150MG/15ML INJECTION, 15 mL, ampoule, PACK OF 5 {48089}"
+ },
+ {
+   "Column1": "MAGNESIUM SULFATE  50% INJECTION, 10 mL, ampoule, PACK OF 10 {72109}"
+ },
+ {
+   "Column1": "CHLORPHENAMINE  10MG/1ML INJECTION, 1 mL, ampoule, PACK OF 5 {03328}"
+ },
+ {
+   "Column1": "HYDROCORTISONE (AS SODIUM SUCCINATE)  100MG INJECTION, 1 Each, vial, PACK OF 10 {22128}"
+ },
+ {
+   "Column1": "FLUMAZENIL  500MICROGRAM/5ML INJECTION, 5 mL, ampoule, PACK OF 5 {73199}"
+ },
+ {
+   "Column1": "TRANEXAMIC ACID  500MG/5ML INJECTION, 5 mL, ampoule, PACK OF 5 {873D3}"
+ },
+ {
+   "Column1": "DICLOFENAC SODIUM  75MG/3ML INJECTION, 3 mL, ampoule, PACK OF 10 {42005}"
+ },
+ {
+   "Column1": "DIAZEPAM  5MG TABLETS, 28 Tab, pack [95028]"
+ },
+ {
+   "Column1": "TEICOPLANIN  200MG POWDER FOR SOLUTION FOR INJECTION, 1 Vial, pack {75851}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE  0.9% INJECTION, 10 mL, ampoule, PACK OF 20 {19062}"
+ },
+ {
+   "Column1": "CEFUROXIME (AS SODIUM SALT)  1.5G POWDER FOR SOLUTION FOR INJECTION, PACK OF 10 {107C1}"
+ },
+ {
+   "Column1": "PANTOPRAZOLE  40MG POWDER FOR SOLUTION FOR INJECTION, 1 Each, vial PACK OF 1 {741H7}"
+ },
+ {
+   "Column1": "PHYTOMENADIONE MIXED MICELLES  10MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {09636}"
+ },
+ {
+   "Column1": "UROKINASE  10,000UNIT POWDER FOR SOLUTION FOR INJECTION, 1 Each, vial {97411}"
+ },
+ {
+   "Column1": "PHYTOMENADIONE MIXED MICELLES PAEDIATRIC  2MG/0.2ML INJECTION, 5 Ampoule, pack {89281}"
+ },
+ {
+   "Column1": "CIPROFLOXACIN IN SODIUM CHLORIDE  0.9% INFUSION 400MG/200ML, 200 mL, vial {180C1}"
+ },
+ {
+   "Column1": "PARACETAMOL  1G/100ML SOLUTION FOR INFUSION, 100 mL, vial, PACK OF 10 {423E8}"
+ },
+ {
+   "Column1": "METRONIDAZOLE  500MG/100ML INFUSION, 100 mL, bag B3400 {39284}"
+ },
+ {
+   "Column1": "FLUCLOXACILLIN  500MG CAPSULES, 28 Cap, pack {92134}"
+ },
+ {
+   "Column1": "NALOXONE  400MICROGRAM/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {15334}"
+ },
+ {
+   "Column1": "PHOSPHATES  50MMOL/500ML POLYFUSER INFUSION, 500 mL {69531}"
+ },
+ {
+   "Column1": "PROTAMINE SULFATE  50MG/5ML INJECTION, 5 mL, ampoule, PACK OF 10 {21202}"
+ },
+ {
+   "Column1": "ADRENALINE  1MG/1ML (1:1000) INJECTION, 1 mL, ampoule, PACK OF 10 {00981}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  150MG/1ML INJECTION, 1 mL, single-use device, PACK OF 10 {055J9} {414A6}"
+ },
+ {
+   "Column1": "ONDANSETRON  8MG/4ML INJECTION, 4 mL, ampoule, PACK OF 5 {879D7}"
+ },
+ {
+   "Column1": "PROCHLORPERAZINE  12.5MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {18694}"
+ },
+ {
+   "Column1": "METOCLOPRAMIDE  10MG/2ML INJECTION, 2 mL, ampoule, PACK OF 5 {516H3}"
+ },
+ {
+   "Column1": "FUROSEMIDE  20MG/2ML INJECTION, 2 mL, ampoule, PACK OF 10 {38865}"
+ },
+ {
+   "Column1": "HALOPERIDOL  5MG/1ML INJECTION, 1 mL, ampoule, PACK OF 5 {86101}"
+ },
+ {
+   "Column1": "METRONIDAZOLE  400MG TABLETS, 21 Tab, pack {18589}"
+ },
+ {
+   "Column1": "HEPARIN SODIUM  50UNIT/5ML FLUSH SOLUTION, 5 mL, ampoule {11789}"
+ },
+ {
+   "Column1": "LIDOCAINE  50MG/5ML (1%) SOLUTION FOR INJECTION AMPOULE, 5 mL, PACK OF 10 {58181}"
+ },
+ {
+   "Column1": "LIDOCAINE  100MG/5ML (2%) SOLUTION FOR INJECTION AMPOULE, 5 mL, PACK OF 10 {36285}"
+ },
+ {
+   "Column1": "FLUCLOXACILLIN  500MG POWDER FOR SOLUTION FOR INJECTION, 1 Each, vial, PACK OF 10 {25038}"
+ },
+ {
+   "Column1": "AMOXICILLIN  500MG INJECTION, 1 Each, vial, PACK OF 10 {23507}"
+ },
+ {
+   "Column1": "CO-AMOXICLAV (AMOXICILLIN  1G AND CLAVULANIC ACID  200MG)  INJECTION, 1 Each, vial, PACK OF 10 {85146}"
+ },
+ {
+   "Column1": "CEFUROXIME (AS SODIUM SALT)  750MG POWDER FOR SOLUTION FOR INJECTION, 1 Each, vial, PACK OF 10 {106C4}"
+ },
+ {
+   "Column1": "BENZYLPENICILLIN  600MG POWDER FOR SOLUTION FOR INJECTION, 1 Each, vial, PACK OF 25 {14941}"
+ },
+ {
+   "Column1": "TEICOPLANIN  400MG POWDER FOR SOLUTION FOR INJECTION, 1 Vial, pack {75752}"
+ },
+ {
+   "Column1": "EPHEDRINE  30MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {07293}"
+ },
+ {
+   "Column1": "PARACETAMOL  500MG SOLUBLE TABLET, 24 Tab, pack {16934}"
+ },
+ {
+   "Column1": "WATER FOR INJECTIONS INJECTION, 10 mL, ampoule, PACK OF 20 {19151}"
+ },
+ {
+   "Column1": "WATER FOR INJECTIONS INJECTION, 20 mL, PACK of 20 {19232}"
+ },
+ {
+   "Column1": "ADRENALINE  1MG/1ML (1:1000) INJECTION, 1 Device, pack, PACK OF 1 {791A1}"
+ },
+ {
+   "Column1": "EXB - SALBUTAMOL  100MICROGRAM INHALER CFC-FREE, 200 Act, device, UCLH Repack for UCH {01139}"
+ },
+ {
+   "Column1": "SALBUTAMOL  2.5MG/2.5ML UNIT DOSE NEBULISING SOLUTION, 2.5 mL, ampoule, PACK OF 20 {32395}"
+ },
+ {
+   "Column1": "IPRATROPIUM BROMIDE  250MICROGRAM/1ML UNIT DOSE NEBULISER SOLUTION, 1 mL, unit dose, PACK OF 20{12661}"
+ },
+ {
+   "Column1": "MRSA TREATMENT PACK, 1 Each, pack, UCLH Repack for UCH {902B0} - FAD"
+ },
+ {
+   "Column1": "MOUTHWASH EFFERVESCENT TABLET, 100 Tab, pack {33871}"
+ },
+ {
+   "Column1": "IRRIGATION SODIUM CHLORIDE SOLUTION 0.9% (NORMASOL), 25 mL, sachet, PACK OF 25 {06246}"
+ },
+ {
+   "Column1": "OPSITE SPRAY, 100 mL, device {27162}"
+ },
+ {
+   "Column1": "PREDNISOLONE  5MG TABLETS, 28 Tab, pack {85944}"
+ },
+ {
+   "Column1": "YELLOW SOFT PARAFFIN BASE, 15 g, pack {45373}"
+ },
+ {
+   "Column1": "CETRIMIDE  0.2% AND BENZALKONIUM CHLORIDE  0.01% CREAM, 100 g, pack {91456}"
+ },
+ {
+   "Column1": "SUDOCREAM ZINC OXIDE WITH LANOLIN AND BENZYL BENZOATE CREAM, 60 g, pack {77968}"
+ },
+ {
+   "Column1": "LUBRICATING AQUEOUS GEL, 42 g, pack {14192}"
+ },
+ {
+   "Column1": "ZEROBASE CREAM, 50 g, pack {846G0}"
+ },
+ {
+   "Column1": "DIAZEPAM  5MG RECTAL TUBES, 1 Each, rectal tube, PACK OF 5 {44237}"
+ },
+ {
+   "Column1": "SODIUM CITRATE COMPOUND ENEMA, 1 Each, enema, PACK OF 12 {46299}"
+ },
+ {
+   "Column1": "DICLOFENAC SODIUM  100MG SUPPOSITORY, 10 Suppository, pack {06262}"
+ },
+ {
+   "Column1": "SODIUM DIHYDROGEN PHOSPHATE  18.1% AND SODIUM PHOSPHATE  8% ENEMA, 133 mL, enema {07242}"
+ },
+ {
+   "Column1": "GLYCEROL  4G SUPPOSITORY, 12 Suppository, pack {11509}"
+ },
+ {
+   "Column1": "CHLORDIAZEPOXIDE  10MG CAPSULES, 100 Cap, pack {41173}"
+ },
+ {
+   "Column1": "DICLOFENAC SODIUM  50MG SUPPOSITORY, 10 Suppository, pack {81043}"
+ },
+ {
+   "Column1": "PARACETAMOL  500MG SUPPOSITORY, 10 Suppository, pack {85367}"
+ },
+ {
+   "Column1": "LABSTIX STRIPS, 1 Each, device, PACK OF 100 {13218}"
+ },
+ {
+   "Column1": "MULTISTIX 10 S.G. REAGENT STRIPS, 1 Each, device, PACK OF 100 {81434}"
+ },
+ {
+   "Column1": "CRYOGESIC ETHYL CHLORIDE FINE SPRAY, 100 mL, pack {24961}"
+ },
+ {
+   "Column1": "HYOSCINE BUTYLBROMIDE  10MG TABLETS, 56 Tab, pack {74926}"
+ },
+ {
+   "Column1": "TRIMETHOPRIM  100MG TABLETS, 28 Tab, pack {94943}"
+ },
+ {
+   "Column1": "METFORMIN  500MG TABLETS, 28 Tab, pack {336A8}"
+ },
+ {
+   "Column1": "ATENOLOL  50MG TABLETS, 28 Tab {91162}"
+ },
+ {
+   "Column1": "FUROSEMIDE  40MG TABLETS, 28 Tab, pack {93408}"
+ },
+ {
+   "Column1": "BENDROFLUMETHIAZIDE  2.5MG TABLETS, 28 Tab, pack {95370}"
+ },
+ {
+   "Column1": "WARFARIN  3MG TABLETS, 28 Tab, pack {94846}"
+ },
+ {
+   "Column1": "ZOPICLONE  7.5MG TABLETS, 28 Tab, pack {91197}"
+ },
+ {
+   "Column1": "LEVOTHYROXINE SODIUM  50MICROGRAM TABLETS, 28 Tab, pack {97012}"
+ },
+ {
+   "Column1": "CO-AMOXICLAV (AMOXICILLIN  500MG AND CLAVULANIC ACID  125MG)  TABLETS, 21 Tab, pack {20788}"
+ },
+ {
+   "Column1": "POTASSIUM  12MMOL EFFERVESCENT TABLET, 20 Tab, pack, PACK OF 5 {37699}"
+ },
+ {
+   "Column1": "ASPIRIN  75MG DISPERSIBLE TABLET, 28 Tab, pack {17681}"
+ },
+ {
+   "Column1": "DOMPERIDONE  10MG TABLETS, 30 Tab, pack {66311}"
+ },
+ {
+   "Column1": "FERROUS SULFATE  200MG TABLETS, 28 Tab, pack {95559}"
+ },
+ {
+   "Column1": "LEVOTHYROXINE SODIUM  25MICROGRAM TABLETS, 28 Tab, pack {20699}"
+ },
+ {
+   "Column1": "NITROFURANTOIN  100MG MODIFIED RELEASE CAPSULES, 14 Cap, pack {02208}"
+ },
+ {
+   "Column1": "SENNA  7.5MG TABLETS, 60 Tab, pack {316A5}"
+ },
+ {
+   "Column1": "GLICLAZIDE  80MG TABLETS, 60 Tab, pack {47953}"
+ },
+ {
+   "Column1": "CHLORPHENAMINE  4MG TABLETS, 28 Tab, pack {97195}"
+ },
+ {
+   "Column1": "NAPROXEN  250MG TABLETS, 28 Tab, pack {346A4}"
+ },
+ {
+   "Column1": "VITAMIN B COMPOUND STRONG TABLETS, 28 Tab, pack {00884}"
+ },
+ {
+   "Column1": "GLUCOSE 10% INFUSION, 1000 mL, bag B0164 {05584}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE 0.9% INFUSION, 250 mL B1322 {06084}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE  0.9% INFUSION, 1,000 mL B1324 {06130}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE  0.9% INFUSION, 100 mL B1307 {06068}"
+ },
+ {
+   "Column1": "DIAZEPAM  2MG TABLETS, 28 Tab, pack {96091}"
+ },
+ {
+   "Column1": "GLUCOSE  5% INFUSION, 500 mL B0063 {05551}"
+ },
+ {
+   "Column1": "GLUCOSE  5% INFUSION, 1,000 mL B0064 {05568}"
+ },
+ {
+   "Column1": "GLUCOSE  5% INFUSION, 250 mL, bag B0062 {05541}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE 0.9% INFUSION, 500 mL, bag B1323 {28754}"
+ },
+ {
+   "Column1": "GLUCOSE  4% AND SODIUM CHLORIDE  0.18% INFUSION, 500 mL, bag B1253 {10091}"
+ },
+ {
+   "Column1": "GLUCOSE  4% AND SODIUM CHLORIDE  0.18% INFUSION, 1000 mL, bag B1254 {10103}"
+ },
+ {
+   "Column1": "SODIUM LACTATE COMPOUND INTRAVENOUS INFUSION, 1000 mL, bag B2324 {10286}"
+ },
+ {
+   "Column1": "GELOPLASMA SOLUTION FOR INFUSION 3% SOLUTION FOR INFUSION, 500 mL, bag {141D1}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.15% (20MMOL POTASSIUM) IN GLUCOSE 5% 1000ML INFUSION, 1000 mL, bag B1134 {10121}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.15% (20MMOL POTASSIUM) IN SODIUM CHLORIDE 0.9% 1000ML INFUSION, 1000 mL, bag B1764 {10261}"
+ },
+ {
+   "Column1": "LORAZEPAM  1MG TABLETS, 28 Tab, pack {96891}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.15% (10MMOL POTASSIUM) IN SODIUM CHLORIDE 0.9% 500ML INFUSION, 500 mL, bag B1763 {10251}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.3% (40MMOL POTASSIUM) IN SODIUM CHLORIDE 0.9% 1000ML INFUSION, 1000 mL, bag B1984 {10243}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE  0.3% (20MMOL POTASSIUM) IN SODIUM CHLORIDE  0.9% 500ML INFUSION, 500 mL, bag B1983 {10235}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.15% (20MMOL POTASSIUM) IN GLUCOSE 4% AND SODIUM CHLORIDE 0.18% 1000ML INFUSION, 1000 mL B1704 {10170}"
+ },
+ {
+   "Column1": "POTASSIUM CHLORIDE 0.3% (40MMOL POTASSIUM) IN GLUCOSE 4% AND SODIUM CHLORIDE 0.18% 1000ML INFUSION, 1000 mL, bag B1724 {10189}"
+ },
+ {
+   "Column1": "MANNITOL  10% INFUSION, 500 mL, bag D5613 {10316}"
+ },
+ {
+   "Column1": "WATER FOR IRRIGATION, 1000 mL, pack {29742}"
+ },
+ {
+   "Column1": "ULM - POTASSIUM CHLORIDE (20MMOL) 0.3% GLUCOSE 10% (HRI) INFUSION, 500 mL, bag {951A7}"
+ },
+ {
+   "Column1": "SPIRONOLACTONE  25MG TABLETS, 28 Tab, pack {95044}"
+ },
+ {
+   "Column1": "FOLIC ACID  5MG TABLETS, 28 Tab, pack {95151}"
+ },
+ {
+   "Column1": "SECOND LINE ADULT CARDIAC BOX (RED),1 Each, single-use device {694G7}"
+ },
+ {
+   "Column1": "DEXTROSE ELECTROLYTE BLACKCURRANT, 1 EACH, sachet, PACK OF 20  {341C4}"
+ },
+ {
+   "Column1": "CHLORDIAZEPOXIDE  5MG CAPSULES, 100 Cap, pack {41181}"
+ },
+ {
+   "Column1": "PARACETAMOL  500MG TABLETS, 100 Tab, pack {34959}"
+ },
+ {
+   "Column1": "PARACETAMOL  500MG TABLETS, 32 Tab, pack, CAPLET {739A1}"
+ },
+ {
+   "Column1": "CALCIUM GLUCONATE  10% INJECTION, 10 mL, ampoule, PACK OF 20 {202E7}"
+ },
+ {
+   "Column1": "BUPIVACAINE  0.25% INJECTION, 10 mL, ampoule, PACK OF 20 {475B1}"
+ },
+ {
+   "Column1": "GLUCAGON  1MG INJECTION, 1 mg, pack {83054}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  40MG/0.4ML INJECTION, 0.4 mL, single-use device, PACK OF 10 {79431} {050J2}"
+ },
+ {
+   "Column1": "CYCLIZINE  50MG TABLETS, 100 Tab, pack {04839}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  60MG/0.6ML INJECTION, 0.6 mL, single-use device, PACK OF 10 {93394} {051J1}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  80MG/0.8ML INJECTION, 0.8 mL, single-use device, PACK OF 10 {93386} {052J7}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  120MG/0.8ML INJECTION, 0.8 mL, single-use device, PACK OF 10 {02453} {054J1}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  100MG/1ML INJECTION, 1 mL, single-use device, PACK OF 10 {93378} {053J4}"
+ },
+ {
+   "Column1": "IRRIGATION SODIUM CHLORIDE SOLUTION 0.9%, 1000 mL, bottle {28762}"
+ },
+ {
+   "Column1": "DIHYDROCODEINE  30MG TABLETS, 28 Tab, pack {95141}"
+ },
+ {
+   "Column1": "DOXYCYCLINE  100MG CAPSULES, 14 Cap, pack {553B8}"
+ },
+ {
+   "Column1": "SODIUM PICOSULFATE (PICOLAX), 1 Each, sachet, PACK OF 2 {629C6}"
+ },
+ {
+   "Column1": "LIDOCAINE  10MG PUMP SPRAY, 50 mL, device {79472}"
+ },
+ {
+   "Column1": "GENTAMICIN  80MG/2ML INJECTION, 2 mL, ampoule, PACK OF 10 {220B0}"
+ },
+ {
+   "Column1": "IBUPROFEN  400MG TABLETS, 24 Tab, pack {343A2}"
+ },
+ {
+   "Column1": "LOPERAMIDE  2MG CAPSULES, 30 Cap, pack {57118}"
+ },
+ {
+   "Column1": "ENOXAPARIN SODIUM  20MG/0.2ML INJECTION, 0.2 mL, single-use device, PACK OF 10 {79448} {049J1} {036J3}"
+ },
+ {
+   "Column1": "ULM - EMERGENCY BRICK PACK - ADULT, 1 Each, pack {569G9}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE  0.9% INJECTION, 5 mL, ampoule, PACK OF 20 {19631}"
+ },
+ {
+   "Column1": "METOCLOPRAMIDE  10MG TABLETS, 28 Tab, pack {93882}"
+ },
+ {
+   "Column1": "INSTILLAGEL, 11 mL, single-use device, PACK of 10 {91030}"
+ },
+ {
+   "Column1": "PHOSPHATE EFFERVESCENT TABLET, 20 Tab, pack, PACK OF 5 {25151}"
+ },
+ {
+   "Column1": "PILL CRUSHER, device {981A6}"
+ },
+ {
+   "Column1": "WARFARIN  1MG TABLETS, 28 Tab, pack {94854}"
+ },
+ {
+   "Column1": "GLUCOSE METER STRIPS (STATSTRIPS), pack {576D9}"
+ },
+ {
+   "Column1": "VITAMINS B AND C STRONG INTRAVENOUS INJECTION, pack, PACK OF 6 {319H4}"
+ },
+ {
+   "Column1": "MACROGOL COMPOUND NPF ORAL POWDER SUGAR-FREE, sachet, PACK OF 20 {99716}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE  0.9% INFUSION, 50 mL B1306 {66737}"
+ },
+ {
+   "Column1": "PROCHLORPERAZINE  5MG TABLETS, 28 Tab, pack {95486}"
+ },
+ {
+   "Column1": "CYCLIZINE  50MG/ML INJECTION, 1 mL, ampoule,PACK OF 10 {937B6}"
+ },
+ {
+   "Column1": "DEXAMETHASONE  2MG TABLETS, 50 Tab, pack {34460}"
+ },
+ {
+   "Column1": "DEXTROSE ELECTROLYTE NATURAL, 1 Each, sachet, PACK OF 20  {24651}"
+ },
+ {
+   "Column1": "ARACHIS OIL ENEMA, 130 mL, pack {23558}"
+ },
+ {
+   "Column1": "NIQUITIN CLEAR  14MG/24HOUR PATCH, 7 Patch, pack {684A1}"
+ },
+ {
+   "Column1": "NIQUITIN CLEAR  21MG/24HOUR PATCH, 7 Patch, pack {634A1}"
+ },
+ {
+   "Column1": "NICOTINE  2MG CHEWING GUM, 96 Piece, pack {005C1}"
+ },
+ {
+   "Column1": "NICOTINE  2MG LOZENGE SUGAR-FREE, 72 Lozenge, pack {962F1}"
+ },
+ {
+   "Column1": "BISOPROLOL  5MG TABLETS, 28 Tab, pack {28584}"
+ },
+ {
+   "Column1": "NICOTINE  15MG CARTRIDGE - (FOR INHALATION), 36 Cartridge, pack {475F2}"
+ },
+ {
+   "Column1": "LUBRICATING AQUEOUS GEL (AQUAGEL) , 5 g, sachet, PACK OF 150 {38555}"
+ },
+ {
+   "Column1": "PH INDICATOR STICKS, pack {843E2}"
+ },
+ {
+   "Column1": "CLONIDINE  150MICROGRAM/1ML INJECTION, 1 mL, ampoule, PACK OF 5 {04091}"
+ },
+ {
+   "Column1": "EMLA  5% CREAM, 5 g, pack, PACK OF 5 {911H9}"
+ },
+ {
+   "Column1": "ERGOCALCIFEROL  300,000UNIT/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {632A5}"
+ },
+ {
+   "Column1": "TRANEXAMIC ACID  500MG/5ML INJECTION, 5 mL, ampoule, PACK OF 10 {08893}"
+ },
+ {
+   "Column1": "OMEPRAZOLE  20MG GASTRO-RESISTANT CAPSULES, 28 Cap {24589}"
+ },
+ {
+   "Column1": "LORAZEPAM 4MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {13714}"
+ },
+ {
+   "Column1": "RAMIPRIL  5MG CAPSULES, 28 Cap, pack {81361}"
+ },
+ {
+   "Column1": "RAMIPRIL  2.5MG CAPSULES, 28 Cap, pack {81371}"
+ },
+ {
+   "Column1": "CLARITHROMYCIN  500MG POWDER FOR CONCENTRATE FOR SOLUTION FOR INFUSION, vial ,PACK OF 10 (49244)"
+ },
+ {
+   "Column1": "RAMIPRIL  10MG CAPSULES, 28 Cap, pack {401A8}"
+ },
+ {
+   "Column1": "ONDANSETRON  4MG/2ML INJECTION, 2 mL, ampoule, PACK OF 10 {491G4}"
+ },
+ {
+   "Column1": "HYDROXOCOBALAMIN  1MG/ML INJECTION, 1 mL, ampoule, PACK OF 5 {12270}"
+ },
+ {
+   "Column1": "BISOPROLOL  2.5MG TABLETS {128A5}"
+ },
+ {
+   "Column1": "MULTIVITAMINS WITH MINERALS AND TRACE ELEMENTS CAPSULES, 30 Cap, pack {84751}"
+ },
+ {
+   "Column1": "VOLUMATIC SPACER/HOLDING CHAMBER DEVICE, 1 Each, device {48488}"
+ },
+ {
+   "Column1": "INSULIN ASPART (NOVORAPID) VIAL  100UNIT/ML INJECTION SOLUTION, 10 mL, vial {125A3}"
+ },
+ {
+   "Column1": "SALBUTAMOL  5MG/2.5ML UNIT DOSE NEBULISING SOLUTION, 2.5 mL, ampoule, PACK OF 20 {83909}"
+ },
+ {
+   "Column1": "IPRATROPIUM BROMIDE  500MICROGRAM/2ML UNIT DOSE NEBULISER SOLUTION, 2 mL, unit dose, PACK OF 20 {91960}"
+ },
+ {
+   "Column1": "RAMIPRIL  1.25MG CAPSULES {81388}"
+ },
+ {
+   "Column1": "GLYCOPYRRONIUM BROMIDE  200MICROGRAM/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {58564}"
+ },
+ {
+   "Column1": "SODIUM BICARBONATE  1.26% INFUSION, 500 mL, bottle {28630}"
+ },
+ {
+   "Column1": "AMIODARONE  300MG/10ML INJECTION, 10 mL, single-use device, PACK OF 1 {09628}"
+ },
+ {
+   "Column1": "ADRENALINE 1MG/10ML (1:10,000) INJECTION, 10 mL, single-use device, PACK OF 1 {070A3}"
+ },
+ {
+   "Column1": "SODIUM BICARBONATE  8.4% INFUSION, 100 mL, bottle, PACK OF 10 {74421}"
+ },
+ {
+   "Column1": "AMITRIPTYLINE  25MG TABLETS, 28 Tab, pack {95206}"
+ },
+ {
+   "Column1": "ONDANSETRON  4MG TABLETS, 30 Tab, pack {78271}"
+ },
+ {
+   "Column1": "AMITRIPTYLINE  10MG TABLETS, 28 Tab, pack {95192}"
+ },
+ {
+   "Column1": "ULM - PHYTOMENADIONE MIXED MICELLES PAEDIATRIC  2MG/0.2ML INJECTION, 5 Ampoule, pack, Cenexi {96445}"
+ },
+ {
+   "Column1": "COLECALCIFEROL  800UNIT CAPSULES, 30 Cap, pack {495F5}"
+ },
+ {
+   "Column1": "PROPRANOLOL  10MG TABLETS, 28 Tab, pack {95461}"
+ },
+ {
+   "Column1": "SODIUM CHLORIDE BLADDER IRRIGATION 0.9%, 3000 mL, bag {10405}"
+ },
+ {
+   "Column1": "SENNA  7.5MG TABLETS, 20 Tab, pack {317A2}"
+ },
+ {
+   "Column1": "AMLODIPINE  5MG TABLETS, 28 Tab, pack {77488}"
+ },
+ {
+   "Column1": "MESALAZINE  500MG MODIFIED RELEASE TABLET, 100 Tab, pack {85472}"
+ },
+ {
+   "Column1": "LANSOPRAZOLE  30MG CAPSULES OF ENTERIC COATED GRANULES, 28 Cap, pack {279A1}"
+ },
+ {
+   "Column1": "CITALOPRAM  20MG TABLETS, 28 Tab, pack {86290}"
+ },
+ {
+   "Column1": "LOPERAMIDE  2MG TABLETS, 30 Tab, pack {86061}"
+ },
+ {
+   "Column1": "LANSOPRAZOLE  30MG ORODISPERSIBLE GASTRO-RESISTANT TABLET, 28 Tab, pack {526A2}"
+ },
+ {
+   "Column1": "PANCREATIN (LIPASE, AMYLASE, PROTEASE)  25000UNIT+30,000UNIT+1400UNIT/1G POWDER, 300 g, pack {98426}"
+ },
+ {
+   "Column1": "BISOPROLOL  1.25MG TABLETS, 28 Tab, pack {127A8}"
+ },
+ {
+   "Column1": "CALCIUM CARBONATE  1.5G AND COLECALCIFEROL  400UNIT (ADCAL -D3) CHEWABLE TABLET, 56 Tab, pack {975D3}"
+ },
+ {
+   "Column1": "CLOPIDOGREL  75MG FILM COATED TABLETS, 28 Tab, pack {93009}"
+ },
+ {
+   "Column1": "GLYCERYL TRINITRATE  400MICROGRAM PUMP SPRAY, 75 Act, device {07226}"
+ },
+ {
+   "Column1": "SIMVASTATIN  20MG TABLETS, 28 Tab, pack {23442}"
+ },
+ {
+   "Column1": "THIAMINE  100MG TABLETS, 100 Tab, pack {08338}"
+ },
+ {
+   "Column1": "DOCUSATE SODIUM  100MG CAPSULES, 100 Cap, pack {33261}"
+ },
+ {
+   "Column1": "MAGNESIUM GLYCEROPHOSPHATE  97.2MG (4MMOL) CHEWABLE TABLETS SUGAR-FREE, 50 Tab, pack {577H9}"
+ },
+ {
+   "Column1": "MULTIVITAMINS TABLETS, 50 Tab, pack {999D5}"
+ },
+ {
+   "Column1": "SPIRONOLACTONE  100MG TABLETS, 28 Tab, pack {20036}"
+ },
+ {
+   "Column1": "ACTRAPID VIAL  100UNIT/ML INJECTION SOLUTION, 10 mL, vial, PACK OF 1 {32859}"
+ },
+ {
+   "Column1": "ATENOLOL  25MG TABLETS, 28 Tab {79081}"
+ },
+ {
+   "Column1": "WARFARIN  5MG TABLETS, 28 Tab, pack {94838}"
+ },
+ {
+   "Column1": "CLINDAMYCIN 150MG CAPSULES, 24 Cap, pack {101B1}"
+ },
+ {
+   "Column1": "LANSOPRAZOLE  15MG CAPSULES OF ENTERIC COATED GRANULES, 28 Cap, pack {84883}"
+ },
+ {
+   "Column1": "PHENOXYMETHYLPENICILLIN  250MG TABLETS, 28 Tab, pack {95052}"
+ },
+ {
+   "Column1": "ATORVASTATIN  20MG TABLETS, 28 Tab, pack {91995}"
+ },
+ {
+   "Column1": "CIPROFLOXACIN  500MG TABLETS, 10 Tab, pack {315A8}"
+ },
+ {
+   "Column1": "CLARITHROMYCIN  500MG TABLETS, 14 Tab, pack {82848}"
+ },
+ {
+   "Column1": "ATORVASTATIN  40MG TABLETS {90621}"
+ },
+ {
+   "Column1": "LACTULOSE  3.4G/5ML SOLUTION, 300 mL {35440}"
+ },
+ {
+   "Column1": "AMOXICILLIN  500MG CAPSULES, 21 Cap, pack {92142}"
+ },
+ {
+   "Column1": "CALCIUM POLYSTYRENE SULFONATE POWDER SUGAR-FREE, 300 g, pack {02331}"
+ },
+ {
+   "Column1": "NYSTATIN  100,000UNIT/ML ORAL SUSPENSION, 30 mL, bottle {21148}"
+ },
+ {
+   "Column1": "CITRIC ACID  17.79G/SACHET AND MAGNESIUM CARBONATE  11.57G/SACHET (CITRAMAG) POWDER, 1 Each, sachet {87718}"
+ },
+ {
+   "Column1": "MACROGOL WITH SODIUM SULFATE + ELECTROLYTES POWDER (KLEAN-PREP), 1 Each, sachet, PACK OF 4 {22225}"
+ },
+ {
+   "Column1": "GLUCOSE  40% ORAL GEL, 25 g, pack, PACK OF 3 {90166}"
+ },
+ {
+   "Column1": "SIMPLE LINCTUS SUGAR-FREE, 200 mL, pack {98612}"
+ },
+ {
+   "Column1": "GASTROGRAFIN LIQUID, 100 mL {10741}"
+ },
+ {
+   "Column1": "IBUPROFEN  100MG/5ML SUSPENSION SUGAR-FREE, 100 mL, pack {904B5}"
+ },
+ {
+   "Column1": "SENNA 7.5MG/5ML ORAL SOLUTION, 150 mL, pack {864B8}"
+ },
+ {
+   "Column1": "Moviprep Sachets, 4 sachet, pack {510G1}"
+ },
+ {
+   "Column1": "DIGOXIN  62.5MICROGRAM TABLETS, 28 Tab, pack {17264}"
+ },
+ {
+   "Column1": "DEXTROSE ELECTROLYTE CITRUS, 1 Each, sachet, PACK OF 20  {220D7}"
+ },
+ {
+   "Column1": "PEPTAC, 500 mL, pack {352E4}"
+ },
+ {
+   "Column1": "CHLORHEXIDINE  0.2% MOUTHWASH, 300 mL, pack {66710}"
+ },
+ {
+   "Column1": "MACROGOL COMPOUND NPF CONCENTRATE FOR ORAL SOLUTION SUGAR-FREE, 500 mL, pack {637F2}"
+ },
+ {
+   "Column1": "PARACETAMOL  250MG/5ML ORAL SUSPENSION, 500 mL, pack {37915}"
+ },
+ {
+   "Column1": "PARACETAMOL  250MG/5ML ORAL SUSPENSION, 100 mL, pack {54641}"
+ },
+ {
+   "Column1": "HYOSCINE BUTYLBROMIDE  20MG/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {12319}"
+ },
+ {
+   "Column1": "ATROPINE SULFATE  600MICROGRAM/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {03107}"
+ },
+ {
+   "Column1": "HYOSCINE HYDROBROMIDE  400MICROGRAM/1ML INJECTION, 1 mL, ampoule, PACK OF 10 {36722}"
+ },
+ {
+   "Column1": "DIAZEPAM  10MG/2ML INJECTION (EMULSION), 2 mL, ampoule, PACK OF 10 {44148}"
+ },
+ {
+   "Column1": "CODEINE PHOSPHATE  30MG TABLETS, 28 Tab, pack {95001}"
+ }
+]
